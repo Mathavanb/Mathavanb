@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://twitter.com/mathavanb">
-    <img src="https://img.shields.io/twitter/follow/mathavanb?label=Follow&style=for-the-badge&logo=twitter" alt="Twitter Follow"/>
+    <img src="https://www.linkedin.com/in/mathavan15" alt="Linekdin Follow"/>
   </a>
 </p>
 
@@ -94,9 +94,8 @@ I’m a **Java Spring Boot Backend Developer** who builds **secure, production�
 ---
 
 ## 🤝 Let’s Collaborate
-- 📧 **Email:** mathavandd28@gmail.com  
+- 📧 **Email:** mathavanvj15@gmail.com  
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mathavan15" target="_blank">mathavan15</a>  
-- 🐦 **Twitter/X:** <a href="https://twitter.com/mathavanb" target="_blank">@mathavanb</a>
 
 > **Availability:** Immediate start • Short fixes or full modules • Time‑boxed deliverables  
 > **Guarantee:** Clear communication, on-time delivery, and production‑ready code.
