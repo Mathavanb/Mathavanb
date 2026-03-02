@@ -104,7 +104,7 @@ HTML • CSS • Bootstrap • JavaScript
 
 ## 🤝 Let’s Work Together
 
-📧 Email: mathavanvj15@gmail.com  
+📧 Email: mathavandd28@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/mathavan15  
 
 🟢 Status: Available for freelance backend projects  
