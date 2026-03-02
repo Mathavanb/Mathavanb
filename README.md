@@ -93,12 +93,28 @@ Clear communication. Clean code. On-time delivery.
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
-Java • Spring Boot • Spring Security • JWT  
-Hibernate • JPA • MySQL • PostgreSQL  
-Selenium • Cucumber • Maven  
-HTML • CSS • Bootstrap • JavaScript  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Framework-6DB33F?logo=springboot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?logo=springsecurity" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-blue?logo=jsonwebtokens" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate" />
+  <img src="https://img.shields.io/badge/JPA-Data%20Layer-orange" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium" />
+  <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?logo=cucumber" />
+  <img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?logo=apachemaven" />
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?logo=bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript" />
+</p>
 
 ---
 
