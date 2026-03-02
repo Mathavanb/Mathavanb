@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hi, I'm Mathavan</h1>
-<h3 align="center">🚀 Spring Boot Backend Developer | Secure APIs • JWT • CRUD • Debugging</h3>
+<h3 align="center">🚀 Spring Boot Backend Developer | Secure APIs • JWT • CRUD • Debugging Specialist</h3>
 
 <p align="center">
   <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Header GIF"/>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="350" alt="Coding GIF" />
+<img align="right" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="330" alt="Coding GIF" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mathavanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mathavan15" target="_blank">
@@ -18,86 +17,113 @@
   </a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
-I’m a **Java Spring Boot Backend Developer** who builds **secure, production‑ready REST APIs** with **JWT authentication**, **role-based access**, and robust **CRUD**. I love **debugging** tricky Spring issues, **optimizing performance**, and shipping **clean, maintainable code**.
 
-- 🔐 Secure Auth: JWT, password hashing, refresh tokens  
-- 🗄 Data: JPA/Hibernate, MySQL/H2, pagination & specs  
-- 🧪 Quality: layered architecture, validations, exception handling  
-- 🧰 Tooling: Maven, Postman, Swagger/OpenAPI  
-- ⚙ DevOps‑friendly: environment configs, profiles, easy `java -jar` runs
+I’m a **Java Spring Boot Backend Developer** who builds **secure, scalable, production-ready REST APIs** using **JWT authentication**, **role-based authorization**, and clean layered architecture.
 
-> **Need help fast?** I can start immediately. Share your stack trace, error, or repo link — I’ll unblock you quickly.
+I specialize in:
+- 🔐 Authentication & Authorization (JWT, Spring Security)
+- 🗄 Database Design & Optimization (JPA/Hibernate, MySQL)
+- 🧪 Debugging Complex Backend Issues
+- ⚡ Performance Optimization & Clean Refactoring
+- 📦 Production-ready API delivery
 
----
-
-## 💼 Freelance Services (What I Do)
-- **API Development (Spring Boot)** – JWT auth, CRUD modules, service layers, DTO mappers  
-- **Bug Fixing & Debugging** – 500 errors, CORS, circular deps, JPA lazy loads, N+1, memory spikes  
-- **Refactoring & Hardening** – validation, exception handling, logging, audit trails  
-- **Documentation** – Swagger/OpenAPI, Postman collections, runbooks  
-- **Database Work** – schema design, migrations, indexing, query optimization  
-- **Handover & Support** – clean READMEs, scripts, knowledge transfer
+> 💬 Need backend help fast? Share your error, stack trace, or repo — I’ll fix it quickly.
 
 ---
 
-## 🧭 How I Work (Simple Process)
-1. **Understand** your use‑case & errors (quick call or chat)  
-2. **Plan** a short, clear task list with time estimates  
-3. **Implement** in a feature branch with frequent commits  
-4. **Test** (unit/integration), share Postman/Swagger  
-5. **Deliver** a clean PR + docs, and support until it’s live
+## 💼 Freelance Services (Client-Focused)
+
+✔ Secure API Development (Spring Boot)  
+✔ Authentication Systems (JWT / Role-Based Access)  
+✔ Bug Fixing (500 errors, CORS, LazyInitialization, N+1)  
+✔ Code Refactoring & Architecture Improvements  
+✔ Database Optimization & Query Tuning  
+✔ API Documentation (Swagger / Postman Collections)  
+✔ Clean Handover with Complete README & Setup Guide  
+
+🚀 Available for short-term fixes and full backend modules.
 
 ---
 
-## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
+## 🧪 Featured Projects (Live Code)
+
+### 🔐 Smart Auth – JWT Authentication System  
+👉 https://github.com/Mathavanb/smart-auth-jwt  
+Spring Boot authentication system with role-based access, password encryption, and secure JWT implementation.
 
 ---
 
-## 🧪 Highlighted Work
-- **SmartAuth** – Simple Spring Boot auth with register/login & H2 (ready for JWT)  
-- **ProductMaster** – Product CRUD API (create/list/delete) with bulk insert  
-- **Loan & EMI Automation** – Selenium+Cucumber framework; Excel export; fluent waits
-
-*Ask me for links or a quick demo video.*
+### 📦 Product Master – Product CRUD API  
+👉 https://github.com/Mathavanb/product-master-api  
+Production-ready REST API with CRUD operations, pagination, and global exception handling.
 
 ---
 
-## 📈 GitHub Analytics (Always Visible Mirrors)
+### 🎬 Rails Movie Review App  
+👉 https://github.com/Mathavanb/rails-movie-review-app  
+Full-stack Ruby on Rails application for reviewing and rating movies.
+
+---
+
+### 🤖 Selenium EMI Automation Framework  
+👉 https://github.com/Mathavanb/selenium-cucumber-emi-automation  
+BDD automation framework using Selenium WebDriver, Cucumber, Excel data-driven testing.
+
+---
+
+### 🎨 Responsive Dashboard UI  
+👉 https://github.com/Mathavanb/responsive-dashboard-ui  
+Modern admin dashboard UI built with HTML, CSS, and Bootstrap.
+
+---
+
+## 🧭 How I Work
+
+1️⃣ Understand your requirement or issue  
+2️⃣ Break it into clear tasks with timeline  
+3️⃣ Develop in clean feature branches  
+4️⃣ Test thoroughly  
+5️⃣ Deliver production-ready code with documentation  
+
+Clear communication. Clean code. On-time delivery.
+
+---
+
+## 🛠 Tech Stack
+
+Java • Spring Boot • Spring Security • JWT  
+Hibernate • JPA • MySQL • PostgreSQL  
+Selenium • Cucumber • Maven  
+HTML • CSS • Bootstrap • JavaScript  
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=mathavanb&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=mathavanb&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathavanb&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathavanb&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mathavanb&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mathavanb&layout=compact&theme=radical" />
 </p>
-
-> If any card fails to load (rate limits), refresh the page or try later — mirrors keep them stable.
 
 ---
 
-## 🤝 Let’s Collaborate
-- 📧 **Email:** mathavanvj15@gmail.com  
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mathavan15" target="_blank">mathavan15</a>  
+## 🤝 Let’s Work Together
+
+📧 Email: mathavanvj15@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mathavan15  
+
+🟢 Status: Available for freelance backend projects  
+⚡ Fast response • Clean implementation • Reliable delivery
 
 > **Availability:** Immediate start • Short fixes or full modules • Time‑boxed deliverables  
 > **Guarantee:** Clear communication, on-time delivery, and production‑ready code.
