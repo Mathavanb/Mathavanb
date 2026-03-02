@@ -11,11 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=mathavanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+
 <p align="left">
-  <a href="https://twitter.com/mathavanb">
-    <img src="https://www.linkedin.com/in/mathavan15" alt="Linekdin Follow"/>
+  <a href="https://www.linkedin.com/in/mathavan15" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
