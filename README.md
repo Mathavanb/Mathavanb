@@ -1,11 +1,25 @@
 <h1 align="center">👋 Hi, I'm Mathavan</h1>
 <h3 align="center">🚀 Spring Boot Backend Developer | Secure APIs • JWT • CRUD • Debugging Specialist</h3>
 
+---
+
+## 💼 Available For Freelance Work
+
+✔ Spring Boot API Development  
+✔ JWT Authentication Setup  
+✔ Backend Bug Fixing (500 errors, CORS, JPA issues)  
+✔ MySQL Database Optimization  
+✔ Code Refactoring & Performance Improvements  
+
+📩 Message me on LinkedIn or Email for quick help.
+
+---
+
 <p align="center">
   <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Header GIF"/>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="330" alt="Coding GIF" />
+<img align="right" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="320" alt="Coding GIF" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mathavanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -21,44 +35,31 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Java Spring Boot Backend Developer** who builds **secure, scalable, production-ready REST APIs** using **JWT authentication**, **role-based authorization**, and clean layered architecture.
+I’m a **Java Spring Boot Backend Developer** who builds secure, scalable, production-ready REST APIs using JWT authentication and clean architecture.
 
 I specialize in:
-- 🔐 Authentication & Authorization (JWT, Spring Security)
+
+- 🔐 Authentication & Authorization (Spring Security + JWT)
 - 🗄 Database Design & Optimization (JPA/Hibernate, MySQL)
-- 🧪 Debugging Complex Backend Issues
-- ⚡ Performance Optimization & Clean Refactoring
-- 📦 Production-ready API delivery
+- 🧪 Debugging Complex Backend Errors
+- ⚡ Performance Optimization
+- 📦 Production-Ready API Delivery
 
-> 💬 Need backend help fast? Share your error, stack trace, or repo — I’ll fix it quickly.
-
----
-
-## 💼 Freelance Services (Client-Focused)
-
-✔ Secure API Development (Spring Boot)  
-✔ Authentication Systems (JWT / Role-Based Access)  
-✔ Bug Fixing (500 errors, CORS, LazyInitialization, N+1)  
-✔ Code Refactoring & Architecture Improvements  
-✔ Database Optimization & Query Tuning  
-✔ API Documentation (Swagger / Postman Collections)  
-✔ Clean Handover with Complete README & Setup Guide  
-
-🚀 Available for short-term fixes and full backend modules.
+> 💬 Need backend help fast? Share your stack trace or repo link — I’ll fix it quickly.
 
 ---
 
-## 🧪 Featured Projects (Live Code)
+## 🧪 Featured Projects
 
 ### 🔐 Smart Auth – JWT Authentication System  
 👉 https://github.com/Mathavanb/smart-auth-jwt  
-Spring Boot authentication system with role-based access, password encryption, and secure JWT implementation.
+Spring Boot authentication system with role-based access and secure JWT implementation.
 
 ---
 
 ### 📦 Product Master – Product CRUD API  
 👉 https://github.com/Mathavanb/product-master-api  
-Production-ready REST API with CRUD operations, pagination, and global exception handling.
+Production-ready REST API with CRUD operations, pagination, and exception handling.
 
 ---
 
@@ -70,23 +71,23 @@ Full-stack Ruby on Rails application for reviewing and rating movies.
 
 ### 🤖 Selenium EMI Automation Framework  
 👉 https://github.com/Mathavanb/selenium-cucumber-emi-automation  
-BDD automation framework using Selenium WebDriver, Cucumber, Excel data-driven testing.
+BDD automation framework using Selenium WebDriver and Cucumber.
 
 ---
 
-### 🎨 Responsive Dashboard UI  
-👉 https://github.com/Mathavanb/responsive-dashboard-ui  
-Modern admin dashboard UI built with HTML, CSS, and Bootstrap.
+### 🎨 HTML CSS Dashboard UI  
+👉 https://github.com/Mathavanb/html-css-dashboard  
+Modern dashboard interface built using HTML and CSS.
 
 ---
 
 ## 🧭 How I Work
 
-1️⃣ Understand your requirement or issue  
-2️⃣ Break it into clear tasks with timeline  
-3️⃣ Develop in clean feature branches  
+1️⃣ Understand your requirement  
+2️⃣ Break into small tasks with timeline  
+3️⃣ Implement clean, structured code  
 4️⃣ Test thoroughly  
-5️⃣ Deliver production-ready code with documentation  
+5️⃣ Deliver production-ready solution  
 
 Clear communication. Clean code. On-time delivery.
 
@@ -101,22 +102,6 @@ HTML • CSS • Bootstrap • JavaScript
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=mathavanb&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathavanb&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mathavanb&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🤝 Let’s Work Together
 
 📧 Email: mathavanvj15@gmail.com  
@@ -124,8 +109,3 @@ HTML • CSS • Bootstrap • JavaScript
 
 🟢 Status: Available for freelance backend projects  
 ⚡ Fast response • Clean implementation • Reliable delivery
-
-> **Availability:** Immediate start • Short fixes or full modules • Time‑boxed deliverables  
-> **Guarantee:** Clear communication, on-time delivery, and production‑ready code.
-
----
